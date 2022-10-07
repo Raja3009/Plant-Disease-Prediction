@@ -1,7 +1,7 @@
 #Library imports
 import numpy as np
 import streamlit as st
-import cv2
+import opencv-python as cv2
 from keras.models import load_model
 
 
